@@ -77,12 +77,12 @@ class Main extends React.Component<Props> {
 
     return (
       <Container>
-        <Helmet title="Pav Sidhu | Blog">
+        <Helmet title="Vivek Lal | Blog">
           <meta
             name="description"
             content={`
-              Hi I'm Pav, I like to design and build web, mobile and voice experiences using code.
-              I'm also a huge fan of Javascript and React. Welcome to my blog.
+              Hi I'm Vivek, My passion is to solve most challenging problems on planet using Machine Learning and Natural Language Processing.
+Welcome to my blog.
             `}
           />
         </Helmet>
